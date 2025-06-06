@@ -1,7 +1,4 @@
 #[Aliya Alasgarova]
-#[K24078979]
-#[Adelah Bouhasan]
-#[K24107873]
 #Homework 2
 #Training Session 1
 #rlAgent.initTraining(0.1, 0.2, 0.2)
