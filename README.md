@@ -2,8 +2,6 @@
 
 A reinforcement learning agent that learns to play TicTacToe using **Temporal Difference Learning (TD(0))** and an **ε-greedy exploration strategy**. This project was completed as part of an academic coursework for reinforcement learning and game AI.
 
-![TicTacToe ASCII Board](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe_game.svg/400px-Tic_tac_toe_game.svg.png)
-
 ## Features
 
 - Text-based 3x3 TicTacToe implementation in Python.
